@@ -3,7 +3,7 @@
 Simple theme for WordPress development.
 Working on my first wordpress theme.
 
-##Installation
+<h2> Installation </h2>
 
 Upload the contents of this repository to a new directory in wp-content/themes.
 Click "Activate".
